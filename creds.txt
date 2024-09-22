@@ -1,2 +1,0 @@
-user = demo_user
-pass = demo_pass
